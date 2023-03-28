@@ -1,0 +1,1 @@
+gcc wav_ivafl_test.c ../../libivafl.a -I../../include -O3 -std=c2x
